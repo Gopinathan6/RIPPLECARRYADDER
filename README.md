@@ -1,14 +1,14 @@
 # RIPPLECARRYADDER
 
-# Aim:
+# AIM:
 
 To simulate and synthesis 4 bit ripple carry adder using vivado.
 
-# Apparatus Required:
+# APPARATUS REQUIRED:
 
 vivado 2023.2 software.
 
-# Procedure:
+# PROCEDURE:
 
 STEP:1 Start the vivado software, Select and Name the New project.
 
